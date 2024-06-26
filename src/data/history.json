@@ -1,0 +1,20 @@
+[
+    {
+        "role": "Graduate Student",
+        "organisation": "UMBC",
+        "startDate": "2024",
+        "endDate": "2025",
+        "experiences": ["Enthusiastic and dedicated Master's student in Computer Science at the University of Maryland, Baltimore County (UMBC), with a passion for exploring the frontiers of technology and its applications."],
+        "imageSrc": "history/college.png"
+    },
+    {
+        "role": "Senior Software Engineer",
+        "organisation": "Capgemini",
+        "startDate": "Mar, 2022",
+        "endDate": "July, 2023",
+        "experiences": ["Worked on FUll Stack Developer role",
+    "Developed and maintained components for both front-end and back-end of applications using the  REACTJS and NodeJS"],
+        "imageSrc": "history/Capgemini.png"
+    }
+    
+]

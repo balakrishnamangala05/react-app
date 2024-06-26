@@ -1,0 +1,19 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  display: flex;
+  justify-content: space-evenly;
+  padding: 38px 10%;
+  gap: 10px;
+}
+
+
+.text p {
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+

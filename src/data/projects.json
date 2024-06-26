@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Multiplex Booking System",
+      "imageSrc": "projects/exam.png",
+      "description": "A website for Online Movie Ticketing System using HTML, Bootstrap, JavaScript, ReactJS as  front-end and Node.js and Express.js as back-end and database MongoDB.",
+      "skills": ["React", "Express", "Node","MongoDB"]
+    },
+    {
+      "title": " Descriptive Online Examination System |",
+      "imageSrc": "projects/MLproject.png",
+      "description": "Developed the website has the feature where the students write the descriptive answers which will be automatically evaluated with the help of Natural Language Processing Techniques",
+      "skills": ["JavaScript", "Python", "SQLite", "Django"]
+    },
+    {
+      "title": "WhatsApp Chat Analyzer ",
+      "imageSrc": "projects/whatsapp.png",
+      "description": "Developed a Machine Learning project that mainly analyzes the WhatsApp chat data using various machine learning algorithms like TextBob, VADER algorithm.",
+      "skills": ["Python", "Streamlit", "Pycharm"]
+    }
+  ]
